@@ -12,12 +12,12 @@ You can find me in San Francisco, Atlanta, or on the road for work.
 
 ## 🚀 What We Do at Simporter
 At **Simporter**, we provide AI-powered solutions for every stage of new product development:
-- **Trendspotting**: Identify emerging trends before they peak.
-- **Unmet Needs Analysis**: Understand what consumers want that isn’t yet available.
-- **AI Concept Generation**: Generate innovative product ideas using AI.
-- **Concept Screening**: Evaluate concepts quickly and efficiently.
-- **Shelf Testing / AI Validation**: Simulate real-world performance to optimize product success.
-- **Prelaunch Forecasting**: Predict product performance with precision.
+- **Trendspotting**: Identify emerging trends before they peak. [More here]([url](https://simporter.com/idea-stage/))
+- **Unmet Needs Analysis**: Understand what consumers want that isn’t yet available. [More here]([url](https://simporter.com/blog/))
+- **AI Concept Generation**: Generate innovative product ideas using AI. [More here]([url](https://simporter.com/ai-product-concepts-how-to-build-better-ideas/))
+- **Concept Screening**: Evaluate concepts quickly and efficiently. [More here]([url](https://simporter.com/the-consumer-panel-a-concept-survey-for-new-products/))
+- **Shelf Testing / AI Validation**: Simulate real-world performance to optimize product success. [More here]([url](https://simporter.com/the-shelf-test-everything-to-know/))
+- **Prelaunch Forecasting**: Predict product performance with precision. [More here]([url](https://simporter.com/launch-stage/))
 
 ---
 
