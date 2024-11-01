@@ -1,6 +1,6 @@
 # Hi, I'm Dillon Hall! 👋
 
-I'm the CEO of **Simporter**, where we empower enterprise CPGs to develop winning products faster using AI and automation. Here's a bit about me and what drives our mission.
+I'm the CEO of **[Simporter](https://simporter.com/demo)**, where we empower enterprise CPGs to develop winning products faster using AI and automation. Here's a bit about me and what drives our mission.
 
 ---
 
