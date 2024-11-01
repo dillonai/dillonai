@@ -22,7 +22,7 @@ At **Simporter**, we provide AI-powered solutions for every stage of new product
 ---
 
 ### Connect with Me
-- **LinkedIn**: [[My LinkedIn URL](https://www.linkedin.com/in/dillonhall/)]
+- **LinkedIn**: [My LinkedIn URL](https://www.linkedin.com/in/dillonhall/)
 - **Simporter Website**: [https://simporter.com](https://simporter.com)
 
 ### Projects That I Follow
