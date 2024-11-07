@@ -26,8 +26,9 @@ At **Simporter**, we provide AI-powered solutions for every stage of new product
 - **Simporter Website**: [https://simporter.com](https://simporter.com)
 
 ### Projects That I Follow
-- [Consulter AI]([url](https://consulterai.com](https://consulterai.com)
-- [SimpTok]([url](https://simptok.com))
-- [Happy Pills]([url](https://gethappypills.com))
-- [Reviews For My Home]([url](https://reviewsformyhome.com/))
+- [Consulter AI](https://consulterai.com)
+- [SimpTok](https://simptok.com)
+- [Happy Pills](https://gethappypills.com)
+- [Reviews For My Home](https://reviewsformyhome.com/)
+
 Let's improve consumer product innovation together
