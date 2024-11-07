@@ -1,16 +1,16 @@
-# Hi, I'm Dillon Hall! 👋
+# Hi, I'm Dillon Hall
 
 I'm the CEO of **[Simporter](https://simporter.com/demo)**, where we empower enterprise CPGs to develop winning products faster using AI and automation. Here's a bit about me and what drives our mission.
 
 ---
 
-## 🌟 About Me
+## About Me
 I'm passionate about using AI technology to improve new product development and ensure companies build around real consumer needs. At Simporter, we help brands predict trends, build concepts with AI, and validate products before launch.
 
-## 🌍 Where I’m Based
+## Where I’m Based
 You can find me in San Francisco, Atlanta, or on the road for work.
 
-## 🚀 What We Do at Simporter
+## What We Do at Simporter
 At **Simporter**, we provide AI-powered solutions for every stage of new product development:
 - **Trendspotting**: Identify emerging trends before they peak. [More here]([url](https://simporter.com/idea-stage/))
 - **Unmet Needs Analysis**: Understand what consumers want that isn’t yet available. [More here]([url](https://simporter.com/blog/))
@@ -26,8 +26,8 @@ At **Simporter**, we provide AI-powered solutions for every stage of new product
 - **Simporter Website**: [https://simporter.com](https://simporter.com)
 
 ### Projects That I Follow
-- Consulter AI: [https://consulterai.com](https://consulterai.com)
-- SimpTok: [https://simptok.com](https://simptok.com)
-- Happy Pills: [https://gethappypills.com](https://gethappypills.com)
-
-Let's shape the future of consumer product innovation together 🚀
+- [Consulter AI]([url](https://consulterai.com](https://consulterai.com)
+- [SimpTok]([url](https://simptok.com))
+- [Happy Pills]([url](https://gethappypills.com))
+- [Reviews For My Home]([url](https://reviewsformyhome.com/))
+Let's improve consumer product innovation together
